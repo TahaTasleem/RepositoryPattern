@@ -1,0 +1,13 @@
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.exe.config
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.exe
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\Repository_Pattern.pdb
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\EntityFramework.dll
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\EntityFramework.xml
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.csproj.AssemblyReference.cache
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.csproj.CopyComplete
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.exe
+C:\Users\tasletah\source\repos\Repository_Pattern\Repository_Pattern\obj\Debug\Repository_Pattern.pdb
